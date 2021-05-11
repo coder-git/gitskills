@@ -7,4 +7,4 @@ bug fix
 
 新添加的内容
 
-新添加的bug
+bug fix 2
